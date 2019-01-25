@@ -8,6 +8,6 @@
 
 更详细情况可参考我的Blog：
 
-[http://www.cwhisme.com/2016/11/21/Unity3D-Tri-planar-Terrain/](http://www.cwhisme.com/2016/11/21/Unity3D-Tri-planar-Terrain/)
+[http:cwhisme.coding.me/2016/11/21/Unity3D-Tri-planar-Terrain/](http:cwhisme.coding.me/2016/11/21/Unity3D-Tri-planar-Terrain/)
 
-[http://www.cwhisme.com/2016/12/15/Tri-planar-Terrain-%E4%BA%8C-%E9%94%99%E8%AF%AF%E4%BF%AE%E6%AD%A3/](http://www.cwhisme.com/2016/12/15/Tri-planar-Terrain-%E4%BA%8C-%E9%94%99%E8%AF%AF%E4%BF%AE%E6%AD%A3/)
+[http:cwhisme.coding.me/2016/12/15/Tri-planar-Terrain-%E4%BA%8C-%E9%94%99%E8%AF%AF%E4%BF%AE%E6%AD%A3/](http:cwhisme.coding.me/2016/12/15/Tri-planar-Terrain-%E4%BA%8C-%E9%94%99%E8%AF%AF%E4%BF%AE%E6%AD%A3/)
